@@ -1,2 +1,2 @@
-a non empty README file
+Updated the README file
 
